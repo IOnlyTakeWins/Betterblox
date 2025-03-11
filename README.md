@@ -3,7 +3,6 @@
 
 <p align="center">
     <img src="https://github.com/IOnlyTakeWins/Betterblox/blob/main/Betterblox_banner-1__1_-removebg-preview.png?raw=true" width="420">
-    <img src="https://github.com/IOnlyTakeWins/Betterblox/blob/main/Betterblox_banner-1__1_-removebg-preview.png?raw=true" width="420">
 </p>
 
 <div align="center">
