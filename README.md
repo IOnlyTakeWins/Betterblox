@@ -2,8 +2,8 @@
 > The only official place to download Betterblox is this GitHub repository. Any other websites offering downloads or claiming to be me are not controlled by me and I am not responsible for any malware you may get from them.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/IOnlyTakeWins/Betterblox/refs/heads/main/Betterblox%20banner-1%20(1).png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
+    <img src="https://github.com/IOnlyTakeWins/Betterblox/blob/main/Betterblox_banner-1__1_-removebg-preview.png?raw=true" width="420">
+    <img src="https://github.com/IOnlyTakeWins/Betterblox/blob/main/Betterblox_banner-1__1_-removebg-preview.png?raw=true" width="420">
 </p>
 
 <div align="center">
